@@ -17,7 +17,7 @@ tail(surveys, 12) # show last 12 rows of data
 str(surveys) # structure of the data
 summary(surveys)
 
-## explore size
+## explore size  
 dim(surveys)
 nrow(surveys)
 ncol(surveys)
